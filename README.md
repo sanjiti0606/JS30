@@ -11,3 +11,7 @@ Implementing an analog clock which displays the current time on the device. <br>
 <h2> DAY 3: CSS Variables</h5>
 Update CSS variables determining image characteristics using JS. <br>
 <href> https://sanjiti0606.github.io/JS30/All30/Day3/ </href> <br>
+<br>
+<h2> DAY 6: Search and Suggestions</h5>
+Match the characters entered in the search box to a data of City and State names (json file) and display results and suggestions along with the population of the place. <br>
+<href> https://sanjiti0606.github.io/JS30/All30/Day6/ </href> <br>
