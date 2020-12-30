@@ -15,3 +15,7 @@ Update CSS variables determining image characteristics using JS. <br>
 <h2> DAY 6: Search and Suggestions</h5>
 Match the characters entered in the search box to a data of City and State names (json file) and display results and suggestions along with the population of the place. <br>
 <href> https://sanjiti0606.github.io/JS30/All30/Day6/ </href> <br>
+<br>
+<h2> DAY 8: HTML Canvas</h5>
+Line width and colour keep changing as you draw on the HTML canvas. <br>
+<href> https://sanjiti0606.github.io/JS30/All30/Day8/ </href> <br>
